@@ -17,6 +17,10 @@ data/cache/*.png
 !data/cache/best_hyperparameters.json
 !data/cache/evaluation_metrics_table.csv
 
+# Documentation & local scripts
+doc/
+scripts/generate_pdf.py
+
 # Environment & IDE
 .env
 .venv/
