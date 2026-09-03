@@ -1,27 +1,10 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-*$py.class
+*.class
+.pytest_cache/
 
-# Temporary and local data caches
-data/cache/*.parquet
-*.log
-data/cache/tmp_test_dir/
-data/cache/shock_results/
-data/cache/live_risk/
-data/cache/*.png
-
-# Model checkpoints, hyperparameter configurations, and evaluation artifacts
-!data/cache/final_retrained_model.pt
-!data/cache/best_model_val.pt
-!data/cache/best_hyperparameters.json
-!data/cache/evaluation_metrics_table.csv
-
-# Documentation & local scripts
-doc/
-scripts/generate_pdf.py
-
-# Environment & IDE
+# Local/temp files
 .env
 .venv/
 env/

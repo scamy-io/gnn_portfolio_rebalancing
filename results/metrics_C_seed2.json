@@ -1,0 +1,16 @@
+{
+  "model": "C",
+  "seed": 2,
+  "params": 2089537,
+  "features": "full",
+  "relations": [
+    "pos",
+    "neg",
+    "sent"
+  ],
+  "best_epoch": 10,
+  "val_ic": 0.05560833528813822,
+  "test_ic_mean": 0.0008991149024790774,
+  "test_ic_nw_t": 0.052873089781025034,
+  "test_days": 492
+}

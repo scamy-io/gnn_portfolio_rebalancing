@@ -1,0 +1,9 @@
+baseline,window,ic_mean,nw_t,n_days
+mom5_feature,C1_bear2022,-0.0004,-0.0124,209
+mom5_feature,C2_svb2023,0.0176,0.1691,23
+mom5_feature,full_test,0.0115,0.5715,492
+mom5_feature,NC_rest,0.0206,0.7338,260
+mom20_raw,C1_bear2022,0.0145,0.412,209
+mom20_raw,C2_svb2023,0.0039,0.0669,23
+mom20_raw,full_test,-0.0,-0.0002,492
+mom20_raw,NC_rest,-0.012,-0.421,260

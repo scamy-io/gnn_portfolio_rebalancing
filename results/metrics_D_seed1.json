@@ -1,0 +1,14 @@
+{
+  "model": "D",
+  "seed": 1,
+  "params": 776641,
+  "features": "full",
+  "relations": [
+    "sent"
+  ],
+  "best_epoch": 9,
+  "val_ic": 0.03211744467902103,
+  "test_ic_mean": -0.010643197564980573,
+  "test_ic_nw_t": -0.6104276395541156,
+  "test_days": 492
+}
